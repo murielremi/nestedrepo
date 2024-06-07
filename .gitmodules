@@ -1,0 +1,6 @@
+[submodule "proj1"]
+	path = proj1
+	url = D:/Utilisateurs/remi1/Documents/Projects/test/nestedgit/origin/proj1
+[submodule "proj2"]
+	path = proj2
+	url = D:/Utilisateurs/remi1/Documents/Projects/test/nestedgit/origin/proj2
